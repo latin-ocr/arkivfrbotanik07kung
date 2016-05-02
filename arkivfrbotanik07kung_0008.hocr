@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik07kung_0008.png"; bbox 0 0 1982 3254; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 298 1268 1749 1424">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 298 1268 1749 1424">
+     <span class='ocr_line' id='line_1_1' title="bbox 298 1268 1749 1326; baseline -0.005 -10"><span class='ocrx_word' id='word_1_1' title='bbox 298 1274 438 1316; x_wconf 59' lang='lat' dir='ltr'>Hastet</span> <span class='ocrx_word' id='word_1_2' title='bbox 468 1273 561 1314; x_wconf 25' lang='lat' dir='ltr'>lfiZ</span> <span class='ocrx_word' id='word_1_3' title='bbox 594 1270 882 1326; x_wconf 68' lang='lat' dir='ltr'>innellitllandc</span> <span class='ocrx_word' id='word_1_4' title='bbox 916 1271 984 1312; x_wconf 71' lang='lat' dir='ltr'>Nm</span> <span class='ocrx_word' id='word_1_5' title='bbox 1015 1270 1126 1312; x_wconf 76' lang='lat'>1—10</span> <span class='ocrx_word' id='word_1_6' title='bbox 1159 1269 1303 1311; x_wconf 71' lang='lat' dir='ltr'>utlwm</span> <span class='ocrx_word' id='word_1_7' title='bbox 1334 1269 1412 1312; x_wconf 73' lang='lat' dir='ltr'><strong>(len</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1445 1269 1466 1311; x_wconf 87' lang='grc'>7</span> <span class='ocrx_word' id='word_1_9' title='bbox 1499 1268 1609 1322; x_wconf 82' lang='lat' dir='ltr'>april</span> <span class='ocrx_word' id='word_1_10' title='bbox 1640 1268 1749 1310; x_wconf 70' lang='lat'><strong>1908.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 365 1369 1746 1424; baseline -0.004 -8"><span class='ocrx_word' id='word_1_11' title='bbox 365 1389 382 1415; x_wconf 74' lang='grc'>»&gt;</span> <span class='ocrx_word' id='word_1_12' title='bbox 456 1373 562 1416; x_wconf 77' lang='grc'>3-4</span> <span class='ocrx_word' id='word_1_13' title='bbox 709 1389 725 1411; x_wconf 86' lang='lat'>›&gt;</span> <span class='ocrx_word' id='word_1_14' title='bbox 938 1390 954 1411; x_wconf 82' lang='lat'>›&gt;</span> <span class='ocrx_word' id='word_1_15' title='bbox 998 1371 1124 1413; x_wconf 80' lang='lat'>11-14</span> <span class='ocrx_word' id='word_1_16' title='bbox 1217 1388 1234 1407; x_wconf 81' lang='lat'>›&gt;</span> <span class='ocrx_word' id='word_1_17' title='bbox 1364 1386 1381 1409; x_wconf 84' lang='lat'>›&gt;</span> <span class='ocrx_word' id='word_1_18' title='bbox 1422 1370 1472 1413; x_wconf 82' lang='lat'>30</span> <span class='ocrx_word' id='word_1_19' title='bbox 1505 1371 1610 1424; x_wconf 72' lang='lat' dir='ltr'><strong>sept.</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1641 1369 1746 1411; x_wconf 78' lang='lat'>1908.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik07kung_0102.png"; bbox 0 0 1982 3254; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 68 81 902 126">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 68 81 902 126">
+     <span class='ocr_line' id='line_1_1' title="bbox 68 81 902 126; baseline -0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 68 86 212 126; x_wconf 76' lang='lat' dir='ltr'>ARKIV</span> <span class='ocrx_word' id='word_1_2' title='bbox 238 81 330 125; x_wconf 82' lang='lat' dir='ltr'>FOR</span> <span class='ocrx_word' id='word_1_3' title='bbox 356 83 577 122; x_wconf 86' lang='grc' dir='ltr'>ΒΟΤΑΝΙΚ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 618 84 683 119; x_wconf 90' lang='lat' dir='ltr'>Bd.</span> <span class='ocrx_word' id='word_1_5' title='bbox 711 85 743 119; x_wconf 89' lang='lat'>7.</span> <span class='ocrx_word' id='word_1_6' title='bbox 784 84 845 119; x_wconf 77' lang='lat' dir='ltr'>Nzr</span> <span class='ocrx_word' id='word_1_7' title='bbox 871 84 902 118; x_wconf 83' lang='lat'>2.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 285 368 1982 2864">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 285 368 1982 2864">
+     <span class='ocr_line' id='line_1_2' title="bbox 285 368 1982 2864; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 285 368 1982 2864; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 654 3113 1967 3162">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 654 3113 1967 3162">
+     <span class='ocr_line' id='line_1_3' title="bbox 654 3113 1967 3162; baseline -0.003 -10"><span class='ocrx_word' id='word_1_9' title='bbox 654 3119 681 3152; x_wconf 91' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_10' title='bbox 722 3117 836 3153; x_wconf 83' lang='lat' dir='ltr'>Carex</span> <span class='ocrx_word' id='word_1_11' title='bbox 867 3118 1017 3152; x_wconf 80' lang='lat' dir='ltr'>Dusenii</span> <span class='ocrx_word' id='word_1_12' title='bbox 1047 3127 1155 3152; x_wconf 60' lang='lat' dir='ltr'>mcx.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1207 3118 1237 3152; x_wconf 87' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1279 3117 1515 3152; x_wconf 80' lang='lat' dir='ltr'>Grabowskia</span> <span class='ocrx_word' id='word_1_15' title='bbox 1542 3115 1768 3162; x_wconf 83' lang='lat' dir='ltr'>Spegazzinii</span> <span class='ocrx_word' id='word_1_16' title='bbox 1795 3123 1880 3150; x_wconf 81' lang='lat' dir='ltr'>DUS.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1936 3113 1967 3149; x_wconf 88' lang='lat'>3.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
